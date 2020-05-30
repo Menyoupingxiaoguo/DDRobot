@@ -1,6 +1,9 @@
 # DDRobot
 钉钉自定义机器人消息推送
 
+读后有收获可以支付宝请作者喝咖啡
+![image](https://github.com/Menyoupingxiaoguo/DDRobot/tree/master/OapiRobotTest/other/alipay.jpg)
+
 1、发送Text消息
 
 ![image](http://i01.lw.aliimg.com/media/lADPBbCc1ZgiBN3M0M0C6A_744_208.jpg)
